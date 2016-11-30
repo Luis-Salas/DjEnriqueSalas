@@ -38,7 +38,7 @@
   padding-left: 20px;
   background-color: #262228;
   width: 100%;
-  padding-left:20%;
+  padding-left:9%;
   height:60em;
   margin: auto;
 }
@@ -172,7 +172,13 @@ lider .slides {
   line-height: 87%;
 }
 .side-nav a {
-  font-size: 22px;
+  font-size: 24px;
+}
+.gold .card-panel{
+  margin: 1.5rem 0 1rem 0;
+}
+.gold .row .col.m5 {
+  width: 90%;
 }
 // #topimg{
 //   width:1700px;
