@@ -1,0 +1,165 @@
+ @import "materialize";
+
+
+ // nav .nav-wrapper {
+ //     position: relative;
+ //     height: 100px;
+ // }
+
+ html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+  }
+#bottom-quotes h1{
+  text-align: center;
+}
+
+#bottom-quotes{
+  background-color: red;
+  margin: auto;
+  margin-left: 30%;
+  display: inline-block;
+}
+.packageWrapper{
+  text-align: center;
+  width: 100%;
+  background-color:#262228;
+}
+
+.packageWrapper h1{
+  margin: 0;
+  color:#262228;
+}
+.packageWrapper p.flow-text{
+  color:black;
+  margin: 0;
+}
+.gold{
+  text-align: center;
+  padding-left: 20px;
+  background-color: #262228;
+  width: 100%;
+  padding-left:20%;
+  height:60em;
+  margin: auto;
+}
+footer.page-footer{
+  margin-top:0px;
+}
+.center{
+  margin-top: 15em;
+  width: 60%;
+  margin: auto;
+  background-color: #262228;
+  text-align: center;
+  color: white;
+}
+.center-bottom{
+  color: white;
+  width: 60%;
+  margin: auto;
+  height:32em;
+  background-color:#262228;
+  text-align: center;
+  border-top:white 1px solid;
+  margin-bottom: 4em;
+}
+
+#indexWrapper{
+  background-color:#262228;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+}
+#contactWrapper{
+  background-color:red;
+  width: 100%;
+  height: 70em;
+}
+#galleryWrapper{
+  height: 1600px;
+  width:100%;
+  text-align: center;
+  display: inline;
+}
+.GalleryRow{
+  width: 100%;
+  height: 600px;
+  display: inline-block;
+  position: relative;
+}
+.content{
+  display: inline-block;
+}
+.videoRow{
+  width: 50%;
+  height: 415px;
+  margin: auto;
+}
+.slides li img {
+  height: 200%;
+}
+.row{
+  margin-bottom: 0;
+}
+.row .col.m5{
+  width: 75%;
+}
+lider .slides {
+    background-color: transparent;
+    margin: 0;
+    height: 900px;
+}
+
+.slider .slides li img {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size:100% auto;
+    background-repeat: no-repeat;
+}
+
+.contact{
+  text-align: center;
+  width: 100%;
+  height:20em;
+  margin: auto;
+  position: relative;
+  padding-left: 14%;
+  margin-bottom: 0;
+  color: black;
+}
+.contact .card-panel{
+  width:70%;
+  position: absolute;
+  color: black;
+}
+#pricingWrapper{
+  padding-top: 2em;
+  vertical-align: top;
+  color: red;
+  text-align: center;
+  width: 100%;
+  background-color:#262228;
+}
+#pricingWrapper:first-child{
+  margin-top: 0;
+  margin-bottom:2em;
+  margin: -2px;
+}
+.socialMedia{
+  color: white;
+  display: inline-block;
+  margin-top:6em;
+}
+.socialMedia .card-panel{
+  width:13em;
+}
+
+// #topimg{
+//   width:1700px;
+//   height: 600px;
+// }
+
+ // .parallax-container {
+ //       height: "3000";
+ //  }
