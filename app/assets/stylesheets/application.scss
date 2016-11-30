@@ -124,13 +124,13 @@ lider .slides {
   height:20em;
   margin: auto;
   position: relative;
-  padding-left: 9%;
+  padding-left: 3%;
   margin-bottom: 0;
   color: black;
 }
 .contact .card-panel{
-  width:70%;
-  position: absolute;
+  width:130%;
+  position: relative;
   color: black;
 }
 #pricingWrapper{
@@ -142,9 +142,8 @@ lider .slides {
   background-color:#262228;
 }
 #pricingWrapper:first-child{
-  margin-top: 0;
-  margin-bottom:2em;
-  margin: -2px;
+  position: relative;
+  padding-bottom: 67px;
 }
 .socialMedia{
   color: white;
@@ -181,8 +180,8 @@ lider .slides {
   width: 90%;
 }
 .parallax-container img{
-  background-size:cover;;
 }
+
 // #topimg{
 //   width:1700px;
 //   height: 600px;
