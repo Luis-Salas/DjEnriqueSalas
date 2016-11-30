@@ -47,7 +47,7 @@ footer.page-footer{
 }
 .center{
   margin-top: 15em;
-  width: 60%;
+  width: 81%;
   margin: auto;
   background-color: #262228;
   text-align: center;
@@ -55,7 +55,7 @@ footer.page-footer{
 }
 .center-bottom{
   color: white;
-  width: 60%;
+  width: 81%;
   margin: auto;
   height:32em;
   background-color:#262228;
@@ -124,7 +124,7 @@ lider .slides {
   height:20em;
   margin: auto;
   position: relative;
-  padding-left: 14%;
+  padding-left: 9%;
   margin-bottom: 0;
   color: black;
 }
@@ -165,7 +165,12 @@ lider .slides {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+.card-panel{
+  margin: -5.5rem 0 1rem 0;
+}
+#indexWrapper h5{
+  line-height: 87%;
+}
 // #topimg{
 //   width:1700px;
 //   height: 600px;
