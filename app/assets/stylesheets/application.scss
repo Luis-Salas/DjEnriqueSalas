@@ -157,6 +157,14 @@ lider .slides {
 .slider .slides li .caption{
   top:69%;
 }
+.slider .slides li img {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 // #topimg{
 //   width:1700px;
